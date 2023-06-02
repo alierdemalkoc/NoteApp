@@ -9,8 +9,5 @@ I developed this app for show how to use SQLite and navigation component. I made
 * View Binding<br/>
 * Lottie Animation<br/>
 <br/>
-<img src="https://github.com/alierdemalkoc/NoteApp/assets/61827898/f287aa80-743b-4044-bd41-43dd50977af7" width="400" height="400"/>
-
-
-
+<img src="https://github.com/alierdemalkoc/NoteApp/assets/61827898/a720a6c8-0d72-440c-8822-abaac135a5f2" width="400" height="600"/>
 
